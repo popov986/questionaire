@@ -18,10 +18,12 @@ class Question extends Model
         return $this->belongsTo(User::class);
     }
 
-    //mutator
+    //mutator (on each title entrance it will populte slug AS small leters with -
     public function setTitleAttribute($value)
     {
-        $this->$attributes['title'] = $value;
-        $this->$attributes['slug']  =  Str::slug($value);
+        $this->attributes['title'] = $value;
+        $this->attributes['slug'] = Str::slug($value);
     }
+
+
 }
