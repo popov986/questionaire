@@ -1,0 +1,41 @@
+[33mcommit d460b5017f8d23d3a53fda235471aa1d72b3b68a[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/lesson9[m[33m, [m[1;32mlesson9[m[33m)[m
+Author: Vancho <popov_vancho@yahoo.com>
+Date:   Sat May 4 21:13:09 2019 +0200
+
+    styles
+
+[33mcommit 5e3a765bceb86682237efea1d8709056b356d29d[m[33m ([m[1;31morigin/lesson7[m[33m, [m[1;32mlesson7[m[33m)[m
+Author: Vancho <popov_vancho@yahoo.com>
+Date:   Sat May 4 19:09:54 2019 +0200
+
+    n+1 query fix
+
+[33mcommit 7a0c607a0474d176905d2856c380686a7b42c881[m[33m ([m[1;31morigin/lesson4[m[33m, [m[1;32mlesson4[m[33m)[m
+Author: Vancho <popov_vancho@yahoo.com>
+Date:   Sat May 4 15:13:58 2019 +0200
+
+    display all questions
+
+[33mcommit dea14cd13ff93042021649a9713e80ed1694c714[m[33m ([m[1;31morigin/lesson3[m[33m, [m[1;32mlesson3[m[33m)[m
+Author: Vancho <popov_vancho@yahoo.com>
+Date:   Sat May 4 14:03:53 2019 +0200
+
+    seeds
+
+[33mcommit 6176efb84677aa5154f89dd7e62ed88909eb7ef3[m[33m ([m[1;31morigin/lesson2[m[33m, [m[1;32mlesson2[m[33m)[m
+Author: Vancho <popov_vancho@yahoo.com>
+Date:   Sat May 4 13:03:07 2019 +0200
+
+    generate question and user model
+
+[33mcommit cb65d6339be782dfc436f8d63964ff63b14e7093[m
+Author: Vancho <popov_vancho@yahoo.com>
+Date:   Thu May 2 23:54:57 2019 +0200
+
+    generate auth and install packages
+
+[33mcommit 5f5dab00d163314de5af6dd6879eb1bfd08394e7[m
+Author: Vancho <popov_vancho@yahoo.com>
+Date:   Wed May 1 23:52:35 2019 +0200
+
+    initial
