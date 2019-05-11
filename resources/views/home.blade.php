@@ -15,6 +15,10 @@
                     @endif
 
                     You are logged in!
+                        <p>
+                            <a href="/questions">Go to questions </a>
+                        </p>
+
                 </div>
             </div>
         </div>
