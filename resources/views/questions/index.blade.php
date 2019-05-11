@@ -12,11 +12,14 @@
                                 <a href="{{ route('questions.create') }}" class="btn btn-outline-secondary">Ask Question</a>
                             </div>
                         </div>
+                        <div style="margin-top: 20px;">
+                            @include('.layouts._messages')
+                        </div>
                     </div>
 
                     <div class="card-body">
 
-                        @include('.layouts._messages')
+
 
                         @foreach ($questions as $question)
                             <div class="media">
