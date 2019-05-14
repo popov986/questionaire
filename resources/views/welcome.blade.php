@@ -81,9 +81,9 @@
 
             <div class="content">
 
-                <div class="title m-b-md">
-                    Laravel
-                </div>
+                <h3>
+                    <a href="/questions">Go to Questionaire APP</a>
+                </h3>
 
                 <div class="links">
                     <a href="https://laravel.com/docs">Docs</a>
